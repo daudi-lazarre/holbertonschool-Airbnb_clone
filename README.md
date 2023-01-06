@@ -1,7 +1,7 @@
 # hbnb - an AirBnB clone :city_sunrise:
 
 <p align="center" width="70%">
-    <img src="https://github.com/farahmc/holbertonschool-AirBnB_clone/blob/main/hbnb.png">
+    <img src="https://github.com/daudi-lazarre/holbertonschool-AirBnB_clone/blob/main/hbnb.png">
 </p>
 
 ## Description :speech_balloon:
@@ -61,6 +61,4 @@ $
  ```
   
  ## Authors :pencil2:
-- Jacqueline Lu [[Jql11](https://github.com/Jql11)]
-- Farah McCurdy [[farahmc](https://github.com/farahmc)]
-- Karoline Silva [[Karoline-S](https://github.com/Karoline-S)]
+- Lucas (Daudi) Lazarre [daudi-lazarre](https://github.com/daudi-lazarre)
